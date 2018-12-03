@@ -1,0 +1,13 @@
+Atividade - Leitura e Discussão de Artigos Acadêmicos
+
+Devido a grande demanda de atividades que o PET Estatística se 
+envolveu durante o ano de 2018, como a coorganização 1° RDay e 63° 
+RBras, e minicursos de R, foi discutido apenas 1 artigo no período.
+O artigo escolhido tem como um dos autores o professor Wagner Hugo 
+Bonat do Laboratório de Estatística e Geoinformação (LEG) da UFPR e foi 
+publicado em abril de 2017 no Journal of Statistical Computation and 
+Simulation, com o título "Flexible Tweedie regression models for 
+continuous data". A indicação de leitura foi proposta e conduzida pelo 
+petiano Lineu Alberto, o qual vem utilizando esta publicação como 
+referência para o seu trabalho de conclusão de curso, e foi base para 
+a apresentação da disciplina Laboratório A.
